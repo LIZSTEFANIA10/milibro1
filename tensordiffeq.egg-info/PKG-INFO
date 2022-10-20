@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: tensordiffeq
+Version: 0.0.1
+Summary: Distributed PDE Solver in Tensorflow
+Home-page: https://github.com/levimcclenny/tensordiffeq
+Author: Levi McClenny
+Author-email: levimcclenny@tamu.edu
+License: UNKNOWN
+Description: # TensorDiffEq
+        
+        [![Build Status](https://travis-ci.com/levimcclenny/TensorDiffEq.svg?token=v7YRnTJ5sKUDc2sKNqG5&branch=main)](https://travis-ci.com/levimcclenny/TensorDiffEq)
+        
+        Scientific Machine Learning on top of Tensorflow for multi-worker distributed computing
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
