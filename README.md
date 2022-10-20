@@ -1,53 +1,25 @@
 
-![TensorDiffEq logo](tdq-banner.png)
+![ Tecnología logo](https://img.freepik.com/vector-gratis/logo-abstracto-empresa-tecnologica-degradado_52683-9702.jpg?w=2000)
 
 
-![Package Build](https://github.com/tensordiffeq/TensorDiffEq/workflows/Package%20Build/badge.svg)
-![Package Release](https://github.com/tensordiffeq/TensorDiffEq/workflows/Package%20Release/badge.svg)
-![pypi](https://img.shields.io/pypi/v/tensordiffeq)
-![downloads](https://img.shields.io/pypi/dm/tensordiffeq)
-![python versions](https://img.shields.io/pypi/pyversions/tensordiffeq)
 
-### Notice: Support for Python 3.6 will be dropped in v.0.2.1, please plan accordingly!
-
-## Efficient and Scalable Physics-Informed Deep Learning
-
-#### Collocation-based PINN PDE solvers for prediction and discovery methods on top of [Tensorflow](https://github.com/tensorflow/tensorflow) 2.X for multi-worker distributed computing. 
-
-Use TensorDiffEq if you require:
-- A meshless PINN solver that can distribute over multiple workers (GPUs) for
-  forward problems (inference) and inverse problems (discovery)
-- Scalable domains - Iterated solver construction allows for N-D spatio-temporal support
-  - support for N-D spatial domains with no time element is included
-- Self-Adaptive Collocation methods for forward and inverse PINNs
-- Intuitive user interface allowing for explicit definitions of variable domains, 
-  boundary conditions, initial conditions, and strong-form PDEs 
+![Tipos de Tecnologia ](https://sites.google.com/site/cristhoferalbertodiazsites/tipos-de-tecnologia)
+![El mundo de los celulares](https://otitelecom.org/telecomunicaciones/mundo-mas-celulares-humanos/)
+![Tipos de PC](https://www.tecnologia-informatica.com/tipos-de-computadoras/)
 
 
-What makes TensorDiffEq different?
-- Completely open-source
-- [Self-Adaptive Solvers](https://arxiv.org/abs/2009.04544) for forward and inverse problems, leading to increased accuracy of the solution and stability in training, resulting in 
-  less overall training time 
-- Multi-GPU distributed training for large or fine-grain spatio-temporal domains
-- Built on top of Tensorflow 2.0 for increased support in new functionality exclusive to recent TF releases, such as [XLA support](https://www.tensorflow.org/xla), 
-[autograph](https://blog.tensorflow.org/2018/07/autograph-converts-python-into-tensorflow-graphs.html) for efficent graph-building, and [grappler support](https://www.tensorflow.org/guide/graph_optimization)
-  for graph optimization* - with no chance of the source code being sunset in a further Tensorflow version release
-  
-- Intuitive interface - defining domains, BCs, ICs, and strong-form PDEs in "plain english"
+### La historia de la tecnología es la historia de la invención de herramientas y técnicas con un propósito práctico. Los artefactos tecnológicos son productos de una economía, una fuerza del crecimiento económico y una buena parte de la vida.
+
+
+
+
+- Las innovaciones influyen en los valores de cada sociedad y cuestiones éticas de la tecnología. Los ejemplos incluyen el surgimiento de la noción de eficiencia en términos de productividad humana y los desafíos de la bioética. El campo interdisciplinario de estudios de ciencia, tecnología y sociedad abarca tales efectos culturales, éticos y políticos.
+
+- Han surgido debates filosóficos sobre la tecnología, con desacuerdos sobre si la tecnología mejora o empeora la condición humana. El neoludismo, el anarco-primitivismo y movimientos similares critican la omnipresencia de la tecnología, argumentando que daña el medio ambiente y aliena a las personas. Los defensores de ideologías como el transhumanismo y el tecnoprogresismo ven el progreso tecnológico continuo como beneficioso para la sociedad y la condición humana
   
 
-*In development
+Herramientas e instrumentos: 
+Los principales medios para la fabricación de artefactos son la energía y la información. La energía permite dar a los materiales la forma, ubicación y composición que están descritas por la información. Las primeras herramientas, como los martillos de piedra y las agujas de hueso, sólo facilitaban y dirigían la aplicación de la fuerza, por parte de las personas, usando los principios de las máquinas simples.6​ El uso del fuego, que modifica la composición de los alimentos haciéndolos más fácilmente digeribles, proporciona iluminación haciendo posible la sociabilidad más allá de los horarios diurnos, brinda calefacción y mantiene a raya a alimañas y animales feroces, modificó tanto la apariencia como los hábitos humanos.
+Hasta los servicios personales requieren de las tecnologías para su buena prestación. Las ropas de trabajo, los útiles, los edificios donde se trabaja, los medios de comunicación y registro de información son productos tecnológicos. Servicios esenciales como la provisión de agua potable, tecnologías sanitarias, electricidad, eliminación de residuos, barrido y limpieza de calles, mantenimiento de carreteras, teléfonos, gas natural, radio, televisión, etc. no podrían brindarse sin el uso intensivo y extensivo de múltiples tecnologías.
 
-If you use TensorDiffEq in your work, please cite it via:
-
-```code
-@article{mcclenny2021tensordiffeq,
-  title={TensorDiffEq: Scalable Multi-GPU Forward and Inverse Solvers for Physics Informed Neural Networks},
-  author={McClenny, Levi D and Haile, Mulugeta A and Braga-Neto, Ulisses M},
-  journal={arXiv preprint arXiv:2103.16034},
-  year={2021}
-}
-```
-
-### Thanks to our additional contributors: 
-@marcelodallaqua, @ragusa, @emiliocoutinho
+Las tecnologías de las telecomunicaciones, en particular, han experimentado enormes progresos a partir del desarrollo y puesta en órbita de los primeros satélites de comunicaciones; del aumento de velocidad y memoria, y la disminución de tamaño y coste de las computadoras; de la miniaturización de circuitos electrónicos (circuito integrados); de la invención de los teléfonos celulares; etc. Todo ello permite comunicaciones casi instantáneas entre dos puntos cualesquiera del planeta, aunque la mayor parte de la población todavía no tiene acceso a ellas.
